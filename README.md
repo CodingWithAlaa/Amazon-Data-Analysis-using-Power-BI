@@ -42,7 +42,7 @@ For any questions or collaboration, reach out via:
 
 - **GitHub Issues**
 - **Email:** [alaanagdy94@gmail.com](mailto:alaanagdy94@gmail.com)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/alaa-muhammed1)
+- **LinkedIn:** [LinkedIn]((https://www.linkedin.com/in/alaa-muhammed1/))
 
 
 
