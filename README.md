@@ -17,8 +17,11 @@ This project analyzes Amazon product data using Power BI to gain insights into p
 
 ## 📷 Dashboard Screenshots
 
+<img src="images/a.png" alt="Logo" width="200">
 
+<img src="images/b.png" alt="Logo" width="200">
 
+<img src="images/c.png" alt="Logo" width="200">
 
 
 
