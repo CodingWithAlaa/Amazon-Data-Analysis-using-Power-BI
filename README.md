@@ -15,13 +15,35 @@ This project analyzes Amazon product data using Power BI to gain insights into p
 - **DAX (Data Analysis Expressions)**: For custom calculations.
 - **Power Query**: For data transformation.
 
-## 📷 Dashboard Screenshots
+## 📥 How to Use
 
-<img src="images/a.png" alt="Logo" width="200">
+1. Download the Power BI (.pbix) file from the repository.
+2. Open it in Power BI Desktop.
+3. Explore different visualizations and filters.
+4. Modify or enhance reports as needed.
 
-<img src="images/b.png" alt="Logo" width="200">
+## 🚀 Future Enhancements
 
-<img src="images/c.png" alt="Logo" width="200">
+- Add more categories for deeper analysis.
+- Implement real-time data updates.
+- Use machine learning to predict product success.
+
+## 🤝 Contributing
+
+Feel free to fork the repository, open an issue, or submit a pull request.
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+## 📬 Contact
+
+For any questions or collaboration, reach out via:
+
+- **GitHub Issues**
+- **Email:** [alaanagdy94@gmail.com](mailto:alaanagdy94@gmail.com)
+- **LinkedIn:** [Alaa Muhammed Ali](#)
+
 
 
 
