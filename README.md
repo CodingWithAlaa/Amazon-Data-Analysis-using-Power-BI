@@ -42,7 +42,8 @@ For any questions or collaboration, reach out via:
 
 - **GitHub Issues**
 - **Email:** [alaanagdy94@gmail.com](mailto:alaanagdy94@gmail.com)
-- **LinkedIn:** [Alaa Muhammed Ali](#)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/alaa-muhammed1)
+
 
 
 
